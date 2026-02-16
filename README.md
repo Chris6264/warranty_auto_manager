@@ -19,7 +19,7 @@
 
 ## Project Background
 
-This was my **first fully documented mobile application project**, originally developed in 2024 and recently organized and published to GitHub as part of my professional portfolio.
+**This project marks the beginning of my documented journey in mobile application development**, originally developed in 2024 and recently organized and published to GitHub as part of my professional portfolio.
 
 Although it started as a learning project, it represents the foundation of my experience working with **Flutter and Firebase**, including CRUD architecture, cloud integration, and mobile UI design.
 
@@ -92,3 +92,4 @@ The project structure was designed with scalability in mind and serves as a foun
 This project was built to simplify warranty management in automotive workshops, reduce manual paperwork, and provide fast access to repair history and warranty validation.
 
 It also marks the beginning of my documented software development portfolio.
+
