@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500397475151",
+    "project_id": "warranty-acf47",
+    "storage_bucket": "warranty-acf47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500397475151:android:67da30e7a2fa5c875cf13a",
+        "android_client_info": {
+          "package_name": "com.example.warranty_auto_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKDb_KpjxXlFadPRVa5lljKX-cXv4iWxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
